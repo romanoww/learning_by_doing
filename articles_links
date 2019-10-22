@@ -1,6 +1,9 @@
 Hyperparameter tuning (different forms of classifiers):
 https://github.com/ImadDabbura/blog-posts/blob/master/posts_md/Pedicting_Employee_Turnover.md
 
+VotingClassifier (compare different algorithms):
+https://imaddabbura.github.io/post/pred-loan-repayment/
+
 EV (Explained Visually):
 http://setosa.io/ev/
 
