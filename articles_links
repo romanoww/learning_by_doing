@@ -1,6 +1,9 @@
 Theory Book on Statistical Learning
 https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 
+Fine-tuning Treshold Classifier:
+https://towardsdatascience.com/fine-tuning-a-classifier-in-scikit-learn-66e048c21e65
+
 Classifier Evaluation Metrics:
 https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-3-classification-3eac420ec991
 https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
@@ -56,6 +59,7 @@ https://towardsdatascience.com/machine-learning-nlp-text-classification-using-sc
 https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff
 https://towardsdatascience.com/text-classification-with-state-of-the-art-nlp-library-flair-b541d7add21f
 https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b
+
 
 
 Python Programming ():
