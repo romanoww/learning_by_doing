@@ -1,5 +1,7 @@
-Background article:
+Background articles:
 https://christophm.github.io/interpretable-ml-book/
+https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html
+https://kiwidamien.github.io/are-you-sure-thats-a-probability.html
 
 Checklist ML project:
 https://towardsdatascience.com/the-essential-machine-learning-project-checklist-3ad6a7a49c37 
@@ -18,9 +20,11 @@ Classifier Evaluation Metrics:
 https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-3-classification-3eac420ec991
 https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
 https://medium.com/swlh/recall-precision-f1-roc-auc-and-everything-542aedf322b9
+https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1
 
 Logistic Regression (in-depth basics and theory):
 https://towardsdatascience.com/logit-of-logistic-regression-understanding-the-fundamentals-f384152a33d1
+https://carmenlai.com/2016/11/12/user-churn-prediction-a-machine-learning-workflow.html
 
 Hyperparameter tuning (different forms of classifiers):
 https://github.com/ImadDabbura/blog-posts/blob/master/posts_md/Pedicting_Employee_Turnover.md
