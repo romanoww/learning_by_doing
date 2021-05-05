@@ -12,6 +12,11 @@ https://www.python.org/dev/peps/pep-0008/
 Theory Book on Statistical Learning
 https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 
+CLV Phase 2 - BTYD / Probabilities:
+https://medium.com/hal24k-techblog/a-guide-to-generating-probability-distributions-with-neural-networks-ffc4efacd6a4
+https://towardsdatascience.com/customer-behavior-modeling-buy-til-you-die-models-6f9580e38cf4
+https://towardsdatascience.com/predicting-customer-lifetime-value-with-buy-til-you-die-probabilistic-models-in-python-f5cac78758d9
+
 Fine-tuning Classifier:
 https://towardsdatascience.com/fine-tuning-a-classifier-in-scikit-learn-66e048c21e65
 https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
